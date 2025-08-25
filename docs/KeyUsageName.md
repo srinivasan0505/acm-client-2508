@@ -1,0 +1,31 @@
+
+
+# KeyUsageName
+
+## Enum
+
+
+* `DIGITAL_SIGNATURE` (value: `"DIGITAL_SIGNATURE"`)
+
+* `NON_REPUDIATION` (value: `"NON_REPUDIATION"`)
+
+* `KEY_ENCIPHERMENT` (value: `"KEY_ENCIPHERMENT"`)
+
+* `DATA_ENCIPHERMENT` (value: `"DATA_ENCIPHERMENT"`)
+
+* `KEY_AGREEMENT` (value: `"KEY_AGREEMENT"`)
+
+* `CERTIFICATE_SIGNING` (value: `"CERTIFICATE_SIGNING"`)
+
+* `CRL_SIGNING` (value: `"CRL_SIGNING"`)
+
+* `ENCIPHER_ONLY` (value: `"ENCIPHER_ONLY"`)
+
+* `DECIPHER_ONLY` (value: `"DECIPHER_ONLY"`)
+
+* `ANY` (value: `"ANY"`)
+
+* `CUSTOM` (value: `"CUSTOM"`)
+
+
+

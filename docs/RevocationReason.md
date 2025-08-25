@@ -1,0 +1,29 @@
+
+
+# RevocationReason
+
+## Enum
+
+
+* `UNSPECIFIED` (value: `"UNSPECIFIED"`)
+
+* `KEY_COMPROMISE` (value: `"KEY_COMPROMISE"`)
+
+* `CA_COMPROMISE` (value: `"CA_COMPROMISE"`)
+
+* `AFFILIATION_CHANGED` (value: `"AFFILIATION_CHANGED"`)
+
+* `SUPERCEDED` (value: `"SUPERCEDED"`)
+
+* `CESSATION_OF_OPERATION` (value: `"CESSATION_OF_OPERATION"`)
+
+* `CERTIFICATE_HOLD` (value: `"CERTIFICATE_HOLD"`)
+
+* `REMOVE_FROM_CRL` (value: `"REMOVE_FROM_CRL"`)
+
+* `PRIVILEGE_WITHDRAWN` (value: `"PRIVILEGE_WITHDRAWN"`)
+
+* `A_A_COMPROMISE` (value: `"A_A_COMPROMISE"`)
+
+
+
